@@ -16,7 +16,7 @@ This was tested on MacOS. Other operating systems may require some adjustment. T
 5) Go to the scripting section.
 6) Run the script. 
 7) Touch Sensel Morph.
-8) Notice change in colors in the viewport graphcs (data is also printed in terminal).
+8) Notice change in colors in the viewport graphics (data is also printed in terminal).
 9) To exit, press the upper left hand corner of the Morph (as close to 0x0 as possible).
 10) Confirm that Sensel Morph no longer drives viewport coloring and is not outputting data in terminal. 
 11) You can re-run the script. 
