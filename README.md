@@ -21,3 +21,7 @@ This was tested on MacOS. Other operating systems may require some adjustment. T
 10) Confirm that Sensel Morph no longer drives viewport coloring. 
 11) You can re-run the script. 
 * IF SENSEL MORPH IS NOT DISCONNECTED, SCRIPT WILL CAUSE HANG-UP AND BLENDER MUST BE FORCE QUIT.
+
+
+---
+Partially inspired by the Blendsel project https://github.com/pmauldin/HackThePlanet
